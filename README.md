@@ -15,7 +15,7 @@ There is a Windows installer (Install_Prisms.exe) in the 'installer' directory.
 
 This will install the game along with a copy of the source code.
 
-Import the project into Visual C++
+Importing the project into Visual C++
 ----------------------------------
 
 You will need to have the following installed:
@@ -31,7 +31,7 @@ You will need to have the following installed:
 Clone the repository to your local machine using Git:
 
    ```
-   git clone https://github.com/jjobes/prisms.git
+   git clone https://github.com/jjobes/Prisms.git
    ```
 
 Start up Visual C++ and choose:
