@@ -7,6 +7,8 @@ It utilizes the DarkGDK game programming library which relies on DirectX,
 and so it is only compatible with Windows.  It was developed using 
 Visual C++ 2008 Express Edition. 
 
+<img src="https://raw.githubusercontent.com/jjobes/Prisms/master/screenshots/screenshot_1.png" width="400">
+
 
 Download
 --------
